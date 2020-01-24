@@ -1,6 +1,6 @@
 # mycode
 Learning to track my code.
-# mycode (Project Title)
+# mycode (kubernetes practice Project Title)
 
 One paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
